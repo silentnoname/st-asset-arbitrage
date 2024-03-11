@@ -1,6 +1,6 @@
 {
   "name": "st-asset-arbitrage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tell you how much profit you can make by buying and unstake st-assets.",
   "main": "index.js",
   "scripts": {
